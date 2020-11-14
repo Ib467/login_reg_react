@@ -1,0 +1,9 @@
+.App{
+    display: flex;
+}
+
+
+.register{
+    background-color: red;
+    justify-content: space-between;
+}
